@@ -1,3 +1,11 @@
+## 3.4 下载
+
+https://github.com/badboycxcc/vshell/releases/tag/3.4
+
+
+
+
+
 <h1 align="center">
   <img src="img/logo.png" alt="vshell" width="120px">
   <br>
